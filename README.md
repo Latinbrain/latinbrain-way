@@ -1,6 +1,6 @@
 # Latinbrain Way
 
-TEXT HERE about Latinbrain and why we whare things here.
+TEXT HERE about Latinbrain and why we share things here.
 
 This repository only host our Wiki:
 
